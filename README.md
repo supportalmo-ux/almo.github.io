@@ -1047,7 +1047,7 @@
       <div class="dest-arrow">→</div>
       <div class="dest-info">
         <div class="dest-country">United Kingdom</div>
-        <div class="dest-uni-count">60+ Partner Universities · Oxford, UCL, Manchester & more</div>
+        <div class="dest-uni-count">60+ Partner Universities · Oxford, London, Manchester & more</div>
       </div>
     </div>
     <div class="dest-card">
